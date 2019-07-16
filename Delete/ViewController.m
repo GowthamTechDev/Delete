@@ -18,6 +18,7 @@ NSString *name=@"Remember Objective c";
     [super viewDidLoad];
     NSLog(@"This is not Comes under Initial Commit");
     NSLog(@"Now Commited Changes Will be Reflected %@",name);
+    NSLog(@"This Log Only Visible to Student users");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
